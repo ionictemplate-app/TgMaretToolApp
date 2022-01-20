@@ -20,11 +20,6 @@ https://t.me/marketingtoolssupport
 <p><strong>Let you easily bulk send message to any contacts/groups/channels</strong></p>
  
 
-<img src="https://i.ibb.co/4FRmJNN/discout.jpg" alt="Telegram Marketing Tools 20" border="0">
- <a href="https://t.me/captainC999" rel="nofollow">
-        <img src="https://i.ibb.co/612rNhH/service1.jpg" alt="Telegram Marketing Tools 20" border="0">
-    </a>
-
 
 <h2><strong> Demo Video</strong></h2>
 <p>
@@ -203,5 +198,8 @@ You can install yourself simply in few steps without any coding knowledge.
     </a>
 </p>
 
+ <a href="https://t.me/captainC999" rel="nofollow">
+        <img src="https://i.ibb.co/612rNhH/service1.jpg" alt="Telegram Marketing Tools 20" border="0">
+    </a>
 
 
