@@ -140,7 +140,6 @@ You can install yourself simply in few steps without any coding knowledge.
 <h2><strong>Dev Tools</strong></h2>
 <p>Visual Studio 2019  </p>
 <p>Net Framework 4.8</p>
-<img src="https://i.ibb.co/kV71B9j/5reviews.jpg" alt="Telegram Marketing Tools 20.0.1" border="0">
 
 <h2><strong>About License</strong></h2>
 <p><strong> Extended License include sourceCode+Key Tools</strong></P>
