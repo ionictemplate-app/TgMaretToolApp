@@ -10,6 +10,10 @@ Official Channel:👈
 
 https://t.me/marketingtoolssupport
 
+Contact Us👈
+https://t.me/captainC999
+
+
     
  <h2><strong> Why choose Telegram Marketing Tools? </strong></h2>
 <p><strong>Scraper|extract|add|Search any members,Invite members,Scraper any groups/channel,search any member|groups|channel </strong></p>
@@ -196,9 +200,5 @@ You can install yourself simply in few steps without any coding knowledge.
         <img src="https://i.ibb.co/h2gs8SX/videobtn.png" alt="Telegram Members Bulk Scraper & Invite & Add Bot|Invite by UserName">
     </a>
 </p>
-
- <a href="https://t.me/captainC999" rel="nofollow">
-        <img src="https://i.ibb.co/612rNhH/service1.jpg" alt="Telegram Marketing Tools 20" border="0">
-    </a>
 
 
