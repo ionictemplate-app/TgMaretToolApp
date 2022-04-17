@@ -1,4 +1,4 @@
-# Telegram Marketing Tools 26.0.1  
+# Telegram Marketing Tools 35.0.1  
  
 DOWNLOAD: https://bit.ly/3GLmU7C
 
@@ -6,117 +6,183 @@ Get Telegram Marketing Tools here: 👈👈👈❤️❤️❤️
 
 https://bit.ly/3GLmU7C
 
-Official Channel:👈
-
-https://t.me/marketingtoolssupport
 
 Contact Us👈
 https://t.me/captainC999
 
+ 
 
-    
- <h2><strong> Why choose Telegram Marketing Tools? </strong></h2>
+<h2><strong> Why choose Telegram Marketing Tools Bulk Scraper|Extract|Add|Search|Invite Member|Join Group 35.0.1? </strong></h2>
 <p><strong>Scraper|extract|add|Search any members,Invite members,Scraper any groups/channel,search any member|groups|channel </strong></p>
 <p><strong>Bulk send message to any group|channel|contact </strong></p>
 <p><strong>Our solution makes you faster, more convenient, easier and safer</strong></p>
 <p><strong>Let you easily extract groups of 100,000+ members</strong></p>
 <p><strong>Let you easily bulk invite members to any groups/channels</strong></p>
 <p><strong>Let you easily bulk send message to any contacts/groups/channels</strong></p>
- 
+<p><strong>Let you easily bulk add|import proxy</strong></p>
+<p><strong>Let you easily auto-reply messages</strong></p>
+<p><strong>Let you easily add your own telegram bot</strong></p>
+<p><strong>Perfect multi-language support</strong></p>
+<p><strong>Perfect business-Level UI</strong></p>
 
 
 <h2><strong> What's News</strong></h2>
 <strong>
-<p>Version 26.0.1 (13-02-2022)</p>
+<p>Version 35.0.1 (16-04-2022)</p>
 <ul>
-<li>Add---Support 6 ways to invite members</li>
-<li>Add---Bulk Invite members to any Groups/Channel</li>
-<li>Add---Single invite members to any Groups/Channel</li>
-<li>Add---Search invite members to any Groups/Channel</li>
-<li>Add---Import CSV bulk invite members to any Groups/Channel</li>
-<li>Add---Near by invite members to any Groups/Channel</li>
-<li>Add---Invite contact to any Groups/Channel</li>
+<li>Add---Support Auto-reply Message Feature</li>
+<li>Add---Support Add  your own telegram Bot</li>
+<li>Add---More Perfect multi-language support</li>
+<li>Add---Perfect business-Level UI</li>
+<li>Fix---Multiple account switching problem</li>
+<li>Fix---More Full Documentation</li>
+<li>Fix---Optimize message bulk sending problem</li>
+<li>Fix---Optimize various performance issues</li>
 </ul>
 </strong>
 
-<h2><strong>How to Use?</strong></h2>
-<img src="https://i.ibb.co/MRg6VDX/01.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
-     <a href="https://youtu.be/3uhhojbxsCM">
-       <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
-    </a>
+<h2>
+  <li><strong>Perfect business-Level UI</strong></li> 
+  <li><strong>Support Account Proxy(No Limit)</strong></li> 
+  <li><strong>Support multiple Language</strong></li>
+  <li><strong>Support multiple accounts add (No Limit)</strong></li>
+  <li><strong>Bulk Add|Search|Extract|Invite members</strong></li>
+  <li><strong>Bulk import|Export Contacts</strong></li>
+  <li><strong>Bulk Add|Search|Extract|Join Groups|Channels</strong></li>
+  <li><strong>Bulk send Message to any Contacts|Groups|channels</strong></li>
+  <li><strong>Bulk Receive messages from any Groups|Channels</strong></li>
+  <li><strong>Online Search Member|Group|Channel by name</strong></li>
+  <li><strong>Online Search Member and Invite by username</strong></li>
+  <li> <strong>Online Search groups|channel and join by name</strong></li>
+   <li> <strong>Support auto-reply messages</strong></li>
+   <li> <strong>Support add telgram bot</strong></li>
+  <li><strong>Near by|Anywhere Search Member|Group|Channel by Ip</strong></li>
+  <li><strong>Lifetime license, Free lifetime updates</strong></li>
+  <li><strong>Online authorization to activate software by codecanyon purchase code</strong></li>
+</h2>
 
-<img src="https://i.ibb.co/6RttnyK/tg01.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0">
+
+
+<img src="https://i.ibb.co/6RttnyK/tg01.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
 <p></p>
-<img src="https://i.ibb.co/b1d4YDB/tg02.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0">
+<img src="https://i.ibb.co/b1d4YDB/tg02.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
 <p></p>
-<img src="https://i.ibb.co/yk8gfmv/tg03.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0">
+<img src="https://i.ibb.co/yk8gfmv/tg03.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
 <p></p>
-<img src="https://i.ibb.co/TWNTBZ4/tg04.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0">
+<img src="https://i.ibb.co/TWNTBZ4/tg04.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
 <p></p>
-<img src="https://i.ibb.co/tYQFS5s/tg05.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0">
+<img src="https://i.ibb.co/tYQFS5s/tg05.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
 <p></p>
+
+
+<img src="https://i.ibb.co/3CTVdgp/01.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/wpV4Wbz/02.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/g4mSmT3/03.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/WcRqnRz/04.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/pPLzG6j/06.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/9NsgwF7/07.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/9nfPBWs/08.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/YRDCPyr/09.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/p4ryYTr/10.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/PNM0MyW/11.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/5BWGD05/12.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/YRqKJMv/13.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/6vgz2sw/14.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/8Yn8WjZ/15.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/T2t1h3g/16.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/yQhCPbq/17.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
 
 	
 <h2><strong>Multi-Account Auth Support</strong></h2>
-<img src="https://i.ibb.co/3hb0DMN/02.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
+<img src="https://i.ibb.co/3hb0DMN/02.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
      <a href="https://youtu.be/B76UZH7PMAc">
-       <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
+       <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
     </a>	
 	
 <h2><strong>Bulk Send Message</strong></h2>
-<img src="https://i.ibb.co/KFtfPDN/03.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
+<img src="https://i.ibb.co/KFtfPDN/03.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
      <a href="https://youtu.be/71ojpsbU5Tc">
-       <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
+       <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
     </a>	
 	
 
 <h2><strong>History Video</strong></h2>
-<img src="https://i.ibb.co/k4984JL/04.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
+<img src="https://i.ibb.co/k4984JL/04.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
 <table>
    <tr>
      <td> 
 	     <a href="https://youtu.be/71ojpsbU5Tc" rel="nofollow">
-            <img src="https://i.ibb.co/m8FpbgF/watch1.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
+            <img src="https://i.ibb.co/m8FpbgF/watch1.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
          </a>
 	 </td>
 	  <td> 
 	     <a href="https://youtu.be/Vext9PI5Djo" rel="nofollow">
-            <img src="https://i.ibb.co/jkRbCct/watch2.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
+            <img src="https://i.ibb.co/jkRbCct/watch2.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
          </a>
 	 </td>
 	 <td> 
 	     <a href="https://youtu.be/HLTue-7uqpI" rel="nofollow">
-            <img src="https://i.ibb.co/hfWvDmZ/watch3.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" />
+            <img src="https://i.ibb.co/hfWvDmZ/watch3.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
          </a>
 	 </td>
   </tr>
 </table>
     	
-<img src="https://i.ibb.co/6tPqvQS/05.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/LrMSCT7/06.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/PjqR5QQ/07.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/vczcTZX/08.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/5vGCVKS/09.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/DWT7XMk/10.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/YkQjdXk/11.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/f0bYcV1/12.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/pzfpxwj/13.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/pKwXtNk/14.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/FVmZTV2/15.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/0Z01WT7/16.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/xjdrwq8/17.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/9pz4HpJ/18.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/qm2VhPd/19.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
-<img src="https://i.ibb.co/JFtGRG9/20.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 26.0.1" border="0"/>
+<img src="https://i.ibb.co/6tPqvQS/05.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+
+<h2><strong>Group|Channel</strong></h2>
+<img src="https://i.ibb.co/LrMSCT7/06.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+  <a href="https://youtu.be/t0RJ7kmwbQg">
+       <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
+    </a>	
+	
+
+<img src="https://i.ibb.co/PjqR5QQ/07.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/vczcTZX/08.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/5vGCVKS/09.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/DWT7XMk/10.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/YkQjdXk/11.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+
+<h2><strong>Support 8 kinds of Invites</strong></h2>
+<img src="https://i.ibb.co/f0bYcV1/12.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+ <a href="https://youtu.be/c78iaS3QNtk">
+       <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
+    </a>
+
+<img src="https://i.ibb.co/pzfpxwj/13.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/pKwXtNk/14.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/FVmZTV2/15.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/0Z01WT7/16.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/xjdrwq8/17.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/9pz4HpJ/18.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+<img src="https://i.ibb.co/qm2VhPd/19.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+
+<h2><strong>Near By</strong></h2>
+<img src="https://i.ibb.co/JFtGRG9/20.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0"/>
+ <a href="https://youtu.be/yrNaqDgp1oc">
+       <img src="https://i.ibb.co/S0yZv2r/watchbtn.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" />
+    </a>
 
 
+<img src="https://i.ibb.co/26m30D6/tg06-png.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
+<p></p>
 
-<h2><strong> Why choose Telegram Marketing Tools 26.0.1 </strong></h2>
-<img src="https://i.ibb.co/89cTZ1G/tginfo.jpg" alt="Telegram Marketing Tools 260" border="0">
+ <a href="https://t.me/captainC999" rel="nofollow">
+        <img src="https://i.ibb.co/612rNhH/service1.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
+    </a>
+
+
+<img src="https://i.ibb.co/wRB8Ssn/tgtools1.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
+
+<img src="https://i.ibb.co/MnP7qZT/tgtool2.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
+
+
+<h2><strong> Why choose Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1 </strong></h2>
+<img src="https://i.ibb.co/89cTZ1G/tginfo.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
 <strong>
 <ul>
 <li>Our solution makes you faster, more convenient, easier and safer</li>
-<li>Bulk send message(nolimit) to groups/channel/contacts/users list(anyone)</li>
+<li>Bulk send message(nolimit) to groups|channel|contacts|users list(anyone)</li>
 <li>Bulk send message to anyone</li>
 <li>Bulk scraper groups/channel  userlist</li>
 <li>Bulk invite users from  any group/channel to yourself group/channel</li>
@@ -131,18 +197,20 @@ https://t.me/captainC999
 <li>Invite real-time monitoring(Unattended scheduled tasks)</li>
 <li>Real-time monitoring of sending messages</li>
 <li>This is a very stable product</li>
+<li>Search for friends near any city in the world, and invite to join groups</li>
+<li>Search for groups near any city in the world, and  join or send message</li>
+<li>Search for friends nearby , and invite to join groups</li>
+<li>Search for groups/channel nearby ,and  join or send message</li>
 <li>All-round security settings, so that your account will not be blocked</li>
-<li>100% include sourceCode</li>
+<li>No include sourceCode</li>
 </ul>
 </strong>
-
+<h2><strong> Customer Reviews </strong></h2>
+<img src="https://i.ibb.co/j3KFSJx/tgcom.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
 
 
 <h2><strong> How To Install</strong></h2>
-<p>
-Installation is very easy with our Easy Installer. 
-You can install yourself simply in few steps without any coding knowledge.
-</p>
+<p>Installation is very easy with our Install File. </p>
 
 
 <h2><strong>Amazing Features</strong></h2>
@@ -166,10 +234,9 @@ You can install yourself simply in few steps without any coding knowledge.
 	<li>group/channel members export</li>
     <li>Predefined Messages</li>
     <li>Send text/image/video message to All Groups/Channels</li>
+	<li>Bulk add telegram bot</li>
+	<li>Support automatic reply to any contact|group message</li>
     <li>Multi-language support 17 languages</li>
-	<li>Multi-Theme support  8 Theme</li>
-	<li>Very easy to use,for non-developer/developer</li>
-	 <li>Contains Full C# source code</li>
     <li>More....</li>
 </ul>
 
@@ -190,64 +257,41 @@ You can install yourself simply in few steps without any coding knowledge.
 	<li>Portuguese</li>
 </ul>
 
-<h2><strong>Dev Tools</strong></h2>
-<p>Visual Studio 2019  </p>
-<p>Net Framework 4.8</p>
-
-<h2><strong>About License</strong></h2>
-<p><strong> Extended License include sourceCode+Key Tools</strong></P>
-<p><strong>If you want to resell this product, please purchase an Extended License!</strong></P>
-<p><strong>Regular License can only be used by yourself, no include sourcecode!</strong></P>
-<p><strong>The software needs a single license key, please contact our 24-hour online customer to get license</strong></p>
-	
-
- <h2><strong>Recommended Other  Telegram Tools!</strong></h2>
- <h2><strong>(1)Telegram Bot Bulk Send/Scraper/Invite Safe Tools</strong></h2>
-
- <a href="https://codecanyon.net/item/telegram-bot-tools/33859570" rel="nofollow">
-	<img src="https://i.ibb.co/dbjypL4/tgsafetools.jpg" alt="Telegram Bot Bulk Send/Scraper/Invite Safe Tools" border="0">
- </a>
+<h2><strong>Runtime Environment</strong></h2>
+ Only Windows Support Win 7|Win 8|Win 10|Win 11|Win Server
+If you want to run on mac, we have other mac version supported
  
+<img src="https://i.ibb.co/kV71B9j/5reviews.jpg" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1" border="0">
+
+<h2><strong>Check it out our  <a href="https://codecanyon.net/item/telegram-marketer-tools-6/33837496/support">ABOUT FAQ</a></strong></h2>
+<p>We guarantee that the software works 100% without any problems!</P>
+<p>Refund for no reason within 7 days,But once refunded, you will no longer be able to use it</P>
+<p>If you purchased this software, please follow the instructions to complete the operation</p>
+
+
+<h2><strong>About Resell</strong></h2>
+<p>If you are interested in buying the source code or resell this product, or adding licensing system,
+ or need to add custom features please contact us!</p>
+
+<h2><strong>Disclaimer</strong></h2>
+<p>This software is to help users send and receive messages conveniently and improve
+efficiency. Please do not use this software to do anything that violates national laws.
+Anything the user does has nothing to do with the author of this software.</P>
+
+
+<h2><strong>Online Support</strong></h2>
 <p>
-    <a href="https://youtu.be/C8mB64XXYWA" rel="nofollow">
-        <img src="https://i.ibb.co/h2gs8SX/videobtn.png" alt="Telegram Bot Bulk Send/Scraper/Inite Safe Tools">
-		 &nbsp;&nbsp;&nbsp;
+    <a href="mailto:support@ionictemplate.com">
+        <img src="https://i.ibb.co/s6x98d1/emailbtn.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1">
     </a>
-	 <a href="https://youtu.be/bCDTIUU96rI" rel="nofollow">
-      <img src="https://i.ibb.co/GWkc9L4/sendbtn1.png" alt="Telegram Bot Bulk Send/Scraper/Inite Safe Tools" border="0">
-    </a>
-</p>
-<p>
-    <a href="https://youtu.be/_yz-g1tYstE" rel="nofollow">
-      <img src="https://i.ibb.co/q7xxG4b/sendbtn2.png" alt="Telegram Bot Bulk Send/Scraper/Inite Safe Tools" border="0">
-		 &nbsp;&nbsp;&nbsp;
-    </a>
-	 <a href="https://youtu.be/LSRY0l4CG-o" rel="nofollow">
-     <img src="https://i.ibb.co/zNdDM1t/sendbtn3.png" alt="Telegram Bot Bulk Send/Scraper/Inite Safe Tools" border="0">
-    </a>
-</p> 
-<p>
-    <a href="https://youtu.be/bnyrtugD7t0" rel="nofollow">
-    <img src="https://i.ibb.co/j89KCGy/sendbtn4.png" alt="Telegram Bot Bulk Send/Scraper/Inite Safe Tools" border="0">
-	 
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/captainC999" rel="nofollow">
+        <img src="https://i.ibb.co/q1Ccn8g/tgbtn.png" alt="Telegram Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member|Join Group 35.0.1">
     </a>
 </p>
 
 
-<h2><strong>(2)Telegram Members Bulk Scraper & Invite & Add Bot|Invite by UserName($29)</strong></h2>
- <img src="https://i.ibb.co/n8NbRsg/tgmemberinvite.jpg" alt="Telegram Members Bulk Scraper & Invite & Add Bot|Invite by UserName" border="0">
-<p>
-    <a href="https://youtu.be/vO7G2s6ynyc" rel="nofollow">
-        <img src="https://i.ibb.co/h2gs8SX/videobtn.png" alt="Telegram Members Bulk Scraper & Invite & Add Bot|Invite by UserName">
-    </a>
-</p>
 
-<h2><strong>(3)Telegram Members Bulk Scraper & Invite & Add Bot|Support Window/Linux/Mac($29)</strong></h2>
- <img src="https://i.ibb.co/n8NbRsg/tgmemberinvite.jpg" alt="Telegram Members Bulk Scraper & Invite & Add Bot|Invite by UserName" border="0">
-<p>
-    <a href="https://youtu.be/7tDTgg1XqoA" rel="nofollow">
-        <img src="https://i.ibb.co/h2gs8SX/videobtn.png" alt="Telegram Members Bulk Scraper & Invite & Add Bot|Invite by UserName">
-    </a>
-</p>
+ 
 
 
