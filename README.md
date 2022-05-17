@@ -290,17 +290,9 @@ Anything the user does has nothing to do with the author of this software.</P>
 
 
 <h2><strong>Online Support</strong></h2>
-<table>
-<tr>
- 
-    <td>
-      <a href="https://t.me/captainC999" rel="nofollow">
+
+  <a href="https://t.me/captainC999" rel="nofollow">
        <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0">
-    </a>
-   </td>
-</tr>
-</table>
- 
 
 
  
