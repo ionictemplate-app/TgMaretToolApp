@@ -8,7 +8,9 @@ https://bit.ly/3GLmU7C
 
 
 Contact Us👈
-https://t.me/captainC999
+telegram: https://t.me/IonicSupport
+
+whatsapp:+1 315 629 9582
 
  
 
@@ -287,97 +289,6 @@ efficiency. Please do not use this software to do anything that violates nationa
 Anything the user does has nothing to do with the author of this software.</P>
 
 
-<h2><strong>Online Support</strong></h2>
-<table>
-<tr>
-   <td>
-      <a href="mailto:ionicstudio@hotmail.com">
-         <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" border="0">
-    </a>
-  </td>
-    <td>
-      <a href="https://t.me/captainC999" rel="nofollow">
-       <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0">
-    </a>
-   </td>
-</tr>
-</table>
  
-  <h3><strong>Update Logs</strong></h3>
-   - V42.0.1 ( 2022/09/03)
- <pre>
- Fix—-log write permission issue 
- Fix—-Group bulk join by group link 
- Add—-More complete failure message 
- Fix—-More stable invite feature 
- Fix---Login failed, clear cache 
- Fix---More stable performance 
- </pre>
- - V40.0.1 ( 2022/07/08)
- <pre>
-   Add—-Adapt to various resolutions
-   Fix—-Authorization string formatting issue
-   Add—-Group Bulk Send Support set message
-   Add—-More complete failure message
-   Fix—-More stable invite feature
-   Fix—-Group Bulk Send issue
-   Fix---multi-account data duplication issue
-   Fix---Message Feature
- </pre>
-   - V39.0.1 ( 2022/06/26)
- <pre>
-  Add—-group sending message settings
-  Fix---More stable performance
- </pre>
-   - V38.0.1 ( 2022/06/01)
- <pre>
-  Add—-group sending message settings
-  Fix---More stable performance
- </pre>
-   - V37.0.1 ( 2022/05/01)
- <pre>
-  Add—-Multi-language support
-  Add—-improt file invite
- </pre>
-   - V36.0.1 ( 2022/04/23)
- <pre>
-  Add—-Added 7 invitation feature
-  Fix---More stable performance
- </pre>
  
-  - V10.0.1 ( 2022/01/12)
- <pre>
-  --Add:bulk send message
- </pre>
-
-  - V9.0.1 ( 2022/01/10)
- <pre>
-  --Add:bulk send message
- </pre>
- 
-   - V7.0.1 ( 2021/12/10)
- <pre>
-  --Add:scrape|extract channel
- </pre>
-   - V6.0.1 ( 2021/11/10)
- <pre>
-  --Add:scrape|extract group
- </pre>
-   - V5.0.1 ( 2021/10/10)
- <pre>
-  --Add:set message
-  --Add:group members
-  --Fixed:send issue
- </pre>
-  - V2.0.1 ( 2021/09/10)
- <pre>
-  --Add:groups send message
-  --Add:contact send message
-  --Fixed:login problem
- </pre>
-  - V1.0.0 ( 2021/09/21)
- <pre>
-  --Add:Initial version
- </pre>
- 
-
+  
