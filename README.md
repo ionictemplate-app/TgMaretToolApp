@@ -1,4 +1,4 @@
-# Telegram Marketing Tools 42.0.1  
+# Telegram Marketing Tools 43.0.1  
  
 DOWNLOAD: https://bit.ly/3GLmU7C
 
@@ -14,7 +14,7 @@ whatsapp:+1 315 629 9582
 
  
 
-<h2><strong> Why choose Telegram Marketing Tools Bulk Scraper|Extract|Add|Search|Invite Member|Join Group 42.0.1? </strong></h2>
+<h2><strong> Why choose Telegram Marketing Tools Bulk Scraper|Extract|Add|Search|Invite Member|Join Group 43.0.1? </strong></h2>
 <p><strong>✅Scraper|extract|add|Search any members,Invite members,Scraper any groups/channel,search any member|groups|channel </strong></p>
 <p><strong>✅Bulk send message to any group|channel|contact </strong></p>
 <p><strong>✅Our solution makes you faster, more convenient, easier and safer</strong></p>
@@ -30,7 +30,7 @@ whatsapp:+1 315 629 9582
 
 <h2><strong> What's News</strong></h2>
 <strong>
-<p>Version 42.0.1 (09Sep-03-2022)</p>
+<p>Version 43.0.1 (09Sep-03-2022)</p>
 <ul>
 <li>Fix—-log write permission issue</li>
 <li>Fix—-Group bulk join by group link</li>
