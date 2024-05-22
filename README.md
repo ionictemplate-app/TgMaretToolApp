@@ -1,4 +1,4 @@
-# Telegram Marketing Pro
+# Telegram Marketing Tools-Scraper/Extract/Add/Search/Invite Member
 <h2><strong> Welcome to Telegram Marketing Pro Include:</strong></h2>
 <p><strong>1.Rocket Telegram Marketing Pro(Multiple-Account Version)</strong></p>
 <p><strong>2.Telegram Marketing Tools Bulk Scraper|Extract|Add|Search|Invite Member|Join Group 45.1.2</strong></p>
@@ -21,7 +21,7 @@ Contact Us👈
 #### 📽 https://www.youtube.com/channel/UC6NZcaPmat9ooKW1yLxdnjQ
 
 
-<h2><strong>1.Rocket Telegram Marketing Pro</strong></h2>
+<h2><strong>1.Telegram Marketing Tools-Scraper/Extract/Add/Search/Invite Member</strong></h2>
 <p><strong>Rocket Telegram Marketing Pro</strong> is a comprehensive tool for businesses and marketers looking to maximize their reach on Telegram. 
 It allows you to easily log into multiple accounts at once, import contact lists, extract members from groups and channels in batches, 
 and send bulk invites to join your groups. You can also customize system settings to tailor the tool to your needs.
